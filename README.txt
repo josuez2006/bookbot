@@ -1,1 +1,1 @@
-This is the first part of the project
+Bookbot is my first project
